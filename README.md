@@ -1,10 +1,17 @@
-# 📱 OpenClaw 安装教程 - 一加12版
+# 📱 OpenClaw Installation Guide - OnePlus 12
 
-> **适用于 Android + Termux + GLM-4.7-Flash 免费方案**
+<div align="center">
+
+**适用于 Android + Termux + GLM-4.7-Flash 免费方案**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-22+-blue.svg)](https://nodejs.org/)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-Latest-orange.svg)](https://docs.openclaw.ai)
+
+[中文教程](教程.md) • [English Tutorial](教程-英文.md)
+
+</div>
 
 ---
 
@@ -97,7 +104,9 @@
 
 ## 📚 详细教程
 
-📖 **完整安装步骤和详细说明请查看**：[教程.md](教程.md)
+📖 **中文教程**：[教程.md](教程.md)
+
+📖 **English Tutorial**：[教程-英文.md](教程-英文.md)
 
 ---
 
@@ -180,10 +189,11 @@ termux-wake-lock
 ### v1.0.0 (2026-03-23)
 
 - ✅ 初始版本发布
-- ✅ 完整安装教程
-- ✅ Telegram集成
-- ✅ GLM-4.7-Flash配置
+- ✅ 完整安装教程（中文+英文）
+- ✅ Telegram集成配置
+- ✅ GLM-4.7-Flash模型配置
 - ✅ 常见问题解答
+- ✅ MIT许可证
 
 ---
 
@@ -210,8 +220,14 @@ termux-wake-lock
 
 ## 💬 支持
 
-如有问题，请提交 [Issue](https://github.com/zhuqg/OpenClaw-Install-Guide-OnePlus12/issues)
+如有问题，请提交 [Issue](https://github.com/Nirvana113/OpenClaw-Install-Guide-OnePlus12/issues)
 
 ---
 
+<div align="center">
+
 **最后更新**：2026年3月23日
+
+Made with ❤️ by [Nirvana113](https://github.com/Nirvana113)
+
+</div>
